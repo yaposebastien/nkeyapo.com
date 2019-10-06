@@ -17,7 +17,7 @@ In case, you will need to clone this project:
 - [x] stack build
 - [x] stack exec site build
 
-You can check it out [here](https://wwww.nkeyapo.com)
+You can check it out [here](https://www.nkeyapo.com)
 
 
 
