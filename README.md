@@ -11,11 +11,11 @@ The current design is inspired by [Tim Creative](https://demos.creative-tim.com/
 
 In case, you will need to clone this project:
 
-- [x]git clone https://github.com/yaposebastien/nkeyapo.com.git
-- [x]cd nkeyapo.com
-- [x]stack setup
-- [x]stack build
-- [x]stack exec site build
+- [x] git clone https://github.com/yaposebastien/nkeyapo.com.git
+- [x] cd nkeyapo.com
+- [x] stack setup
+- [x] stack build
+- [x] stack exec site build
 
 You can check it out [here](https://wwww.nkeyapo.com)
 
